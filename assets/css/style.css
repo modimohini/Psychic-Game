@@ -4,9 +4,8 @@
     font-size: 18px;
     line-height: 34px;
     color: #000000;
-    background: url("../images/cat.jpg");
-    background-blend-mode: hard-light;
-    image-orientation: auto;
+    background-image: url("../images/cat.jpg");
+    background-position: auto right;
   }
   #container {
     position: absolute;
